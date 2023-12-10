@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "sundrambhai55",
+  "repo": "container-eo5fwk",
+  "name": "sundrambhai55",
+  "email": "sundram5955a@gmail.com",
+}
